@@ -1,8 +1,10 @@
+
 name: Update GitHub Profile README
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    # Setiap hari pukul 12.00 WIB (05.00 UTC)
+    - cron: "0 5 * * *"
 
   workflow_dispatch:
 
@@ -22,7 +24,7 @@ jobs:
         with:
           python-version: "3.x"
 
-      - name: Update repository information
+      - name: Update README
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python scripts/update_readme.py
@@ -37,6 +39,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "No changes detected."
           else
-            git commit -m "chore: update repository information"
+            git commit -m "chore: daily profile update"
             git push
           fi
