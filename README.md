@@ -10,7 +10,7 @@
 Welcome! This repository is a live directory of my **public GitHub repositories**.
 
 - **GitHub Profile:** [BngWiro](https://github.com/BngWiro)
-- **Automatic Update:** Every day at 07:00 WIB
+- **Automatic Update:** Every day
 - **Data Source:** GitHub API
 
 ## Repository Overview
