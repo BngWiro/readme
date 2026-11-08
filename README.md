@@ -16,7 +16,7 @@ Welcome! This repository is a live directory of my **public GitHub repositories*
 ## Repository Overview
 
 <!-- REPOSITORIES:START -->
-**Total Public Repositories: 31**
+**Total Public Repositories: 32**
 
 | Repository | Description | Language | Stars | Last Updated |
 |---|---|---|---:|---|
@@ -38,7 +38,7 @@ Welcome! This repository is a live directory of my **public GitHub repositories*
 | [Phantom](https://github.com/BngWiro/Phantom) | YouTube alternative for mobile  | - | 1 | 2026-11-04 |
 | [PocketSAMP](https://github.com/BngWiro/PocketSAMP) | Standalone No-Root SA-MP 0.3.7 Server & MariaDB MySQL Runtime for Android (ARM64) | - | 1 | 2026-11-04 |
 | [Pterodactyl-panel](https://github.com/BngWiro/Pterodactyl-panel) | Pterodactyl® is a free, open-source game server management panel built with PHP, React, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while exposing a beautiful and intuitive UI to end users. | - | 1 | 2026-11-04 |
-| [readme](https://github.com/BngWiro/readme) | No description | Python | 1 | 2026-11-06 |
+| [readme](https://github.com/BngWiro/readme) | No description | Python | 1 | 2026-11-07 |
 | [SAMP-Mobile-Launcher-RN](https://github.com/BngWiro/SAMP-Mobile-Launcher-RN) | A mobile launcher that allows online play in GTA SA (SA-MP) | Java | 1 | 2026-11-04 |
 | [samp-omp-portable-compiler](https://github.com/BngWiro/samp-omp-portable-compiler) | No description | Batchfile | 1 | 2026-11-04 |
 | [samp-query](https://github.com/BngWiro/samp-query) | Simple SA:MP/open.mp server query library for Node.js using GameDig with automatic fallback and clean JSON output. | - | 1 | 2026-11-04 |
@@ -47,6 +47,7 @@ Welcome! This repository is a live directory of my **public GitHub repositories*
 | [sloop](https://github.com/BngWiro/sloop) | ⛵ Self-hosted VPS control panel: browser SSH terminals with clean reattach, real-time multi-device session sync, mobile key bar, SFTP files, live metrics, and process/service/firewall management. Go + Next.js. | - | 1 | 2026-11-04 |
 | [TStudio-Ryherd-V.4.0](https://github.com/BngWiro/TStudio-Ryherd-V.4.0) | No description | Pawn | 1 | 2026-11-04 |
 | [UserControlPanel](https://github.com/BngWiro/UserControlPanel) | UCP for Project Reality Roleplay | - | 1 | 2026-11-04 |
+| [web-pawncc](https://github.com/BngWiro/web-pawncc) | WebAssembly-powered Pawn compiler and IDE for SA-MP & open.mp | - | 0 | 2026-11-07 |
 | [web-textdraw-editor](https://github.com/BngWiro/web-textdraw-editor) | Web tool to import, design and export SA-MP/open.mp Textdraws | - | 1 | 2026-11-04 |
 | [X-SAMP-Launcher-Mobile](https://github.com/BngWiro/X-SAMP-Launcher-Mobile) | No description | - | 1 | 2026-11-04 |
 | [xerointhost-panel-](https://github.com/BngWiro/xerointhost-panel-) | No description | - | 1 | 2026-11-04 |
@@ -56,11 +57,11 @@ Welcome! This repository is a live directory of my **public GitHub repositories*
 
 ### Random Note of the Day
 
-> Don't stop until you're proud.
+> Keep coding, keep growing.
 
 ---
 
-*Last synchronized: 07-11-2026 18:31 WIB*
+*Last synchronized: 08-11-2026 18:41 WIB*
 <!-- REPOSITORIES:END -->
 
 ---
