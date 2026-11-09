@@ -16,7 +16,7 @@ Welcome! This repository is a live directory of my **public GitHub repositories*
 ## Repository Overview
 
 <!-- REPOSITORIES:START -->
-**Total Public Repositories: 32**
+**Total Public Repositories: 34**
 
 | Repository | Description | Language | Stars | Last Updated |
 |---|---|---|---:|---|
@@ -26,7 +26,9 @@ Welcome! This repository is a live directory of my **public GitHub repositories*
 | [BngWiro](https://github.com/BngWiro/BngWiro) | No description | - | 1 | 2026-11-04 |
 | [CamEditor-samp](https://github.com/BngWiro/CamEditor-samp) | No description | Pawn | 1 | 2026-11-04 |
 | [clone-with-claude](https://github.com/BngWiro/clone-with-claude) | Reverse-engineer any website into a clean Next.js clone using a Claude Code skill — multi-clone workspace with pixel-diff QA and deterministic tooling. | - | 1 | 2026-11-04 |
-| [FishNet](https://github.com/BngWiro/FishNet) | FishNet: Unity Networking Evolved.  | - | 1 | 2026-11-04 |
+| [FishNet](https://github.com/BngWiro/FishNet) | FishNet: Unity Networking Evolved.  | - | 0 | 2026-11-08 |
+| [hermes-agent](https://github.com/BngWiro/hermes-agent) | The agent that grows with you | - | 0 | 2026-11-08 |
+| [llama.cpp](https://github.com/BngWiro/llama.cpp) | LLM inference in C/C++ | - | 0 | 2026-11-08 |
 | [luna-project-gm-samp](https://github.com/BngWiro/luna-project-gm-samp) | No description | - | 1 | 2026-11-04 |
 | [omp-convert](https://github.com/BngWiro/omp-convert) | Buat meringankan migrasi samp ke omp | - | 1 | 2026-11-04 |
 | [omp-launcher-tui](https://github.com/BngWiro/omp-launcher-tui) | A cross-platform, terminal-based Open.MP launcher for GTA: San Andreas multiplayer. Built in Go with tview, designed for SSH, Steam Deck, and low-resource systems. | - | 1 | 2026-11-04 |
@@ -38,7 +40,7 @@ Welcome! This repository is a live directory of my **public GitHub repositories*
 | [Phantom](https://github.com/BngWiro/Phantom) | YouTube alternative for mobile  | - | 1 | 2026-11-04 |
 | [PocketSAMP](https://github.com/BngWiro/PocketSAMP) | Standalone No-Root SA-MP 0.3.7 Server & MariaDB MySQL Runtime for Android (ARM64) | - | 1 | 2026-11-04 |
 | [Pterodactyl-panel](https://github.com/BngWiro/Pterodactyl-panel) | Pterodactyl® is a free, open-source game server management panel built with PHP, React, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while exposing a beautiful and intuitive UI to end users. | - | 1 | 2026-11-04 |
-| [readme](https://github.com/BngWiro/readme) | No description | Python | 1 | 2026-11-07 |
+| [readme](https://github.com/BngWiro/readme) | No description | Python | 1 | 2026-11-08 |
 | [SAMP-Mobile-Launcher-RN](https://github.com/BngWiro/SAMP-Mobile-Launcher-RN) | A mobile launcher that allows online play in GTA SA (SA-MP) | Java | 1 | 2026-11-04 |
 | [samp-omp-portable-compiler](https://github.com/BngWiro/samp-omp-portable-compiler) | No description | Batchfile | 1 | 2026-11-04 |
 | [samp-query](https://github.com/BngWiro/samp-query) | Simple SA:MP/open.mp server query library for Node.js using GameDig with automatic fallback and clean JSON output. | - | 1 | 2026-11-04 |
@@ -61,7 +63,7 @@ Welcome! This repository is a live directory of my **public GitHub repositories*
 
 ---
 
-*Last synchronized: 08-11-2026 18:41 WIB*
+*Last synchronized: 09-11-2026 20:37 WIB*
 <!-- REPOSITORIES:END -->
 
 ---
