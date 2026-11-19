@@ -16,7 +16,7 @@ Welcome! This repository is a live directory of my **public GitHub repositories*
 ## Repository Overview
 
 <!-- REPOSITORIES:START -->
-**Total Public Repositories: 40**
+**Total Public Repositories: 42**
 
 | Repository | Description | Language | Stars | Last Updated |
 |---|---|---|---:|---|
@@ -26,6 +26,7 @@ Welcome! This repository is a live directory of my **public GitHub repositories*
 | [BngWiro](https://github.com/BngWiro/BngWiro) | No description | - | 1 | 2026-11-04 |
 | [CamEditor-samp](https://github.com/BngWiro/CamEditor-samp) | No description | Pawn | 1 | 2026-11-04 |
 | [clone-with-claude](https://github.com/BngWiro/clone-with-claude) | Reverse-engineer any website into a clean Next.js clone using a Claude Code skill — multi-clone workspace with pixel-diff QA and deterministic tooling. | - | 1 | 2026-11-04 |
+| [codebase-memory-mcp](https://github.com/BngWiro/codebase-memory-mcp) | Local code intelligence for developers and AI agents. Connect code, docs and infrastructure in a persistent graph, with CBM Lens, MCP tools, agent integrations and change-aware test selection. | - | 0 | 2026-11-19 |
 | [drgxel-musik](https://github.com/BngWiro/drgxel-musik) | Bot Discord musik modern berbasis TypeScript, Lavalink v4, Discord Components V2, & renderer PNG adaptif. | - | 1 | 2026-11-16 |
 | [FishNet](https://github.com/BngWiro/FishNet) | FishNet: Unity Networking Evolved.  | - | 1 | 2026-11-16 |
 | [hermes-agent](https://github.com/BngWiro/hermes-agent) | The agent that grows with you | - | 1 | 2026-11-16 |
@@ -52,6 +53,7 @@ Welcome! This repository is a live directory of my **public GitHub repositories*
 | [samp-textdraw-editor](https://github.com/BngWiro/samp-textdraw-editor) | No description | Pawn | 1 | 2026-11-04 |
 | [sampvoice-openmp](https://github.com/BngWiro/sampvoice-openmp) | Software Development Kit for implementing Pawn voice systems for open.mp servers.  | - | 1 | 2026-11-04 |
 | [sloop](https://github.com/BngWiro/sloop) | ⛵ Self-hosted VPS control panel: browser SSH terminals with clean reattach, real-time multi-device session sync, mobile key bar, SFTP files, live metrics, and process/service/firewall management. Go + Next.js. | - | 1 | 2026-11-04 |
+| [snapgent-connector](https://github.com/BngWiro/snapgent-connector) | Free, open-source connector agent chatbot AI browser to many App via MCP. | - | 0 | 2026-11-19 |
 | [spawn-editor-SAMP-](https://github.com/BngWiro/spawn-editor-SAMP-) | IDE for open.mp and SA-MP development with SAMPCTL integration, dependency management and built-in Git support. | - | 1 | 2026-11-16 |
 | [TStudio-Ryherd-V.4.0](https://github.com/BngWiro/TStudio-Ryherd-V.4.0) | No description | Pawn | 1 | 2026-11-04 |
 | [UserControlPanel](https://github.com/BngWiro/UserControlPanel) | UCP for Project Reality Roleplay | - | 1 | 2026-11-04 |
@@ -65,11 +67,11 @@ Welcome! This repository is a live directory of my **public GitHub repositories*
 
 ### Random Note of the Day
 
-> Learn something new every single day.
+> Programming is thinking, not just typing.
 
 ---
 
-*Last synchronized: 18-11-2026 20:40 WIB*
+*Last synchronized: 19-11-2026 21:08 WIB*
 <!-- REPOSITORIES:END -->
 
 ---
