@@ -16,7 +16,7 @@ Welcome! This repository is a live directory of my **public GitHub repositories*
 ## Repository Overview
 
 <!-- REPOSITORIES:START -->
-**Total Public Repositories: 44**
+**Total Public Repositories: 45**
 
 | Repository | Description | Language | Stars | Last Updated |
 |---|---|---|---:|---|
@@ -48,6 +48,7 @@ Welcome! This repository is a live directory of my **public GitHub repositories*
 | [Pterodactyl-panel](https://github.com/BngWiro/Pterodactyl-panel) | Pterodactyl® is a free, open-source game server management panel built with PHP, React, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while exposing a beautiful and intuitive UI to end users. | - | 1 | 2026-11-04 |
 | [readme](https://github.com/BngWiro/readme) | No description | Python | 1 | 2026-11-12 |
 | [SA-Map-Studio](https://github.com/BngWiro/SA-Map-Studio) | The most comprehensive tool for mapping in GTA San Andreas, for both multiplayer and singleplayer. | - | 1 | 2026-11-16 |
+| [samp-asi-framework](https://github.com/BngWiro/samp-asi-framework) | C++ framework for SA:MP ASI plugins: RakNet hook, SA:MP API, D3D9 drawing, offsets for 0.3.7-R1/R3-1/R5-1 and 0.3.DL | - | 0 | 2026-11-21 |
 | [SAMP-MOBILE-CEF-LAUNCHER-AGUSSAMP](https://github.com/BngWiro/SAMP-MOBILE-CEF-LAUNCHER-AGUSSAMP) | No description | - | 1 | 2026-11-16 |
 | [SAMP-Mobile-Launcher-RN](https://github.com/BngWiro/SAMP-Mobile-Launcher-RN) | A mobile launcher that allows online play in GTA SA (SA-MP) | Java | 1 | 2026-11-04 |
 | [samp-omp-portable-compiler](https://github.com/BngWiro/samp-omp-portable-compiler) | No description | Batchfile | 1 | 2026-11-04 |
@@ -69,11 +70,11 @@ Welcome! This repository is a live directory of my **public GitHub repositories*
 
 ### Random Note of the Day
 
-> Don't stop until you're proud.
+> Trust the process, enjoy the journey.
 
 ---
 
-*Last synchronized: 20-11-2026 20:50 WIB*
+*Last synchronized: 21-11-2026 20:14 WIB*
 <!-- REPOSITORIES:END -->
 
 ---
