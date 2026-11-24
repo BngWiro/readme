@@ -16,7 +16,7 @@ Welcome! This repository is a live directory of my **public GitHub repositories*
 ## Repository Overview
 
 <!-- REPOSITORIES:START -->
-**Total Public Repositories: 45**
+**Total Public Repositories: 46**
 
 | Repository | Description | Language | Stars | Last Updated |
 |---|---|---|---:|---|
@@ -41,6 +41,7 @@ Welcome! This repository is a live directory of my **public GitHub repositories*
 | [openmp-models](https://github.com/BngWiro/openmp-models) | incomplete as hell, no time to continue it for now | - | 1 | 2026-11-04 |
 | [OpenMP-Plus](https://github.com/BngWiro/OpenMP-Plus) | A client modification for GTA:San Andreas that uses SA-MP's plugin SDK to interact with the OPEN:MP server and add new features | - | 1 | 2026-11-04 |
 | [pawn-studio](https://github.com/BngWiro/pawn-studio) | Pawn Package Manager and debugging for VS Code | - | 1 | 2026-11-16 |
+| [PawnJIT](https://github.com/BngWiro/PawnJIT) | PawnJIT is a just-in-time (JIT) compiler for the Pawn scripting language. | - | 0 | 2026-11-23 |
 | [Pawno-Studio-Mobile](https://github.com/BngWiro/Pawno-Studio-Mobile) | No description | - | 1 | 2026-11-04 |
 | [pawnplus-mysql-next](https://github.com/BngWiro/pawnplus-mysql-next) | Extended PawnPlus MySQL with some improvements. | - | 1 | 2026-11-04 |
 | [Phantom](https://github.com/BngWiro/Phantom) | YouTube alternative for mobile  | - | 1 | 2026-11-04 |
@@ -70,11 +71,11 @@ Welcome! This repository is a live directory of my **public GitHub repositories*
 
 ### Random Note of the Day
 
-> Every line of code is a new possibility.
+> Your only limit is your imagination.
 
 ---
 
-*Last synchronized: 23-11-2026 22:41 WIB*
+*Last synchronized: 24-11-2026 22:32 WIB*
 <!-- REPOSITORIES:END -->
 
 ---
